@@ -1,1 +1,5 @@
 hello sumek!
+
+1. Make a model in c++ where it finds the nuber series of any series(very useful in aptitude for number series problems)
+2. phone directory using TRIE
+3. URL shortner
